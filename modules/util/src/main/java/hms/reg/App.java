@@ -13,7 +13,12 @@ package hms.reg;
  *
  */
 public class App {
+<<<<<<< HEAD
     public static void main( String[] args ) {
+=======
+    public static void main( String[] args )
+    {
+>>>>>>> live-issue
         System.out.println( "Hello World!" );
     }
 }

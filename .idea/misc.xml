@@ -33,7 +33,11 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/modules/user-reg" />
   </component>
+<<<<<<< HEAD
   <component name="IdProvider" IDEtalkID="5C44BD2C1617CDC4537299E070DFB1B7" />
+=======
+  <component name="IdProvider" IDEtalkID="F46792CF585AB5AE35E47F5E713D300B" />
+>>>>>>> live-issue
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
@@ -54,8 +58,13 @@
   <component name="ProjectModuleManager">
     <modules />
   </component>
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/classes" />
+=======
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+>>>>>>> live-issue
   </component>
   <component name="PropertiesComponent">
     <property name="GoToClass.includeLibraries" value="false" />

@@ -10,6 +10,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+<<<<<<< HEAD
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
@@ -19,5 +20,8 @@
         <SOURCES />
       </library>
     </orderEntry>
+=======
+    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.5" level="project" />
+>>>>>>> live-issue
   </component>
 </module>

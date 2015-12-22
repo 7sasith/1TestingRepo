@@ -22,6 +22,9 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.5" level="project" />
+<<<<<<< HEAD
     <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.5" level="project" />
+=======
+>>>>>>> live-issue
   </component>
 </module>
