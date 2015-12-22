@@ -37,8 +37,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
-<<<<<<< HEAD
-=======
+
   <dependencies>
    <dependency>
       <groupId>junit</groupId>
@@ -47,7 +46,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
->>>>>>> live-issue
+
   <modules>
     <module>modules</module>
   </modules>
