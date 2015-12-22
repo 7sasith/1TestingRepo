@@ -1,0 +1,23 @@
+"deleted unwanted files"::
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# Explicit paths specified without -i nor -o; assuming --only paths...
+# On branch master
+# Changes to be committed:
+#	deleted:    user-reg/target/maven-archiver/pom.properties
+#
+# Changes not staged for commit:
+#	deleted:    user-reg/target/user-reg.war
+#	deleted:    user-reg/target/user-reg/WEB-INF/web.xml
+#	deleted:    user-reg/target/user-reg/index.jsp
+#	deleted:    util/target/classes/hms/reg/App.class
+#	deleted:    util/target/maven-archiver/pom.properties
+#	deleted:    util/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+#	deleted:    util/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+#	deleted:    util/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+#	deleted:    util/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+#	deleted:    util/target/surefire-reports/TEST-hms.reg.AppTest.xml
+#	deleted:    util/target/surefire-reports/hms.reg.AppTest.txt
+#	deleted:    util/target/test-classes/hms/reg/AppTest.class
+#	deleted:    util/target/util-1.0-SNAPSHOT.jar
+#
